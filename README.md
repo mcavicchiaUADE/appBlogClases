@@ -25,43 +25,35 @@ Aplicación móvil desarrollada con React Native y Expo que permite crear y visu
 `git clone https://github.com/mcavicchiaUADE/appBlogClases.git`
 
 2. Instala en la raiz del proyecto
-`npm install`
-
-o
-
-`npm install -g expo-cli`
-
-o
-
-`npx expo` sin instalarlo globalmente.
+`npm install` o `npm install -g expo-cli` o `npx expo` sin instalarlo globalmente.
 
 
 ## 🧑‍💻 Iniciar el servidor de desarrollo
 
-npm start
+`npm start`
 
-O directamente con Expo:
+O con expo:
 
 `npx expo start`
 
 **Android:**
 `npm run android`
 
-o
+o con expo:
 
-npx expo start --android
+`npx expo start --android`
 
 **iOS:**
 `npm run ios`
 
-o
+o con expo:
 
 `npx expo start --ios`
 
 **Web:**
 `npm run web`
 
-o
+o con expo:
 
 `npx expo start --web`
 
