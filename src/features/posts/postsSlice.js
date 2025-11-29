@@ -3,7 +3,7 @@ import { loadPostsFromStorage } from '../../utils/storage';
 import { postsApi } from '../../services/api';
 import { API_CONFIG } from '../../constants/api';
 
-const initialState = {
+const initialState = { // definimos estado iniciall
   items: [],
   status: 'idle',
   error: null,
