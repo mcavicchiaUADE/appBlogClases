@@ -27,11 +27,11 @@ git clone https://github.com/mcavicchiaUADE/appBlogClases.git
 2. Instala en la raiz del proyecto
 npm install
 
-# o
+o
 
 npm install -g expo-cli
 
-# o
+o
 
 `npx expo` sin instalarlo globalmente.
 
@@ -46,17 +46,23 @@ npx expo start
 
 **Android:**
 npm run android
-# o
+
+o
+
 npx expo start --android
 
 **iOS:**
 npm run ios
-# o
+
+o
+
 npx expo start --ios
 
 **Web:**
 npm run web
-# o
+
+o
+
 npx expo start --web
 
 1. Ejecuta `npm start`
