@@ -19,10 +19,6 @@ Aplicación móvil desarrollada con React Native y Expo que permite crear y visu
 ### API Externa
 - **JSONPlaceholder** - API REST de prueba para obtener y crear publicaciones
 
-### Instalación de Expo CLI (opcional)
-
-npm install -g expo-cliO puedes usar `npx expo` sin instalarlo globalmente.
-
 ## 📦 Instalación
 
 1. Clona el repositorio:
@@ -30,6 +26,14 @@ git clone https://github.com/mcavicchiaUADE/appBlogClases.git
 
 2. Instala en la raiz del proyecto
 npm install
+
+# o
+
+npm install -g expo-cli
+
+# o
+
+`npx expo` sin instalarlo globalmente.
 
 
 ### Iniciar el servidor de desarrollo
