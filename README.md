@@ -22,49 +22,50 @@ Aplicación móvil desarrollada con React Native y Expo que permite crear y visu
 ## 📦 Instalación
 
 1. Clona el repositorio:
-git clone https://github.com/mcavicchiaUADE/appBlogClases.git
+`git clone https://github.com/mcavicchiaUADE/appBlogClases.git`
 
 2. Instala en la raiz del proyecto
-npm install
+`npm install`
 
 o
 
-npm install -g expo-cli
+`npm install -g expo-cli`
 
 o
 
 `npx expo` sin instalarlo globalmente.
 
 
-### Iniciar el servidor de desarrollo
+## 🧑‍💻 Iniciar el servidor de desarrollo
 
 npm start
 
 O directamente con Expo:
 
-npx expo start
+`npx expo start`
 
 **Android:**
-npm run android
+`npm run android`
 
 o
 
 npx expo start --android
 
 **iOS:**
-npm run ios
+`npm run ios`
 
 o
 
-npx expo start --ios
+`npx expo start --ios`
 
 **Web:**
-npm run web
+`npm run web`
 
 o
 
-npx expo start --web
+`npx expo start --web`
 
+**Dispositivo movil:**
 1. Ejecuta `npm start`
 2. Escanea el código QR con:
    - **iOS**: Cámara nativa o app Expo Go
