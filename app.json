@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "MiniBlog de Clases",
+    "slug": "miniblog-clases",
+    "version": "1.0.0",
+    "platforms": ["ios", "android"],
+    "sdkVersion": "54.0.0"
+  }
+}
