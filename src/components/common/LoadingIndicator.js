@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Text, ActivityIndicator, StyleSheet } from 'react-native';
-
+// 29-11-2025 modificar, quedo raro
 // componente para mostrar un indicador de carga
 const LoadingIndicator = ({ message = 'Cargando publicaciones...' }) => {
   return (

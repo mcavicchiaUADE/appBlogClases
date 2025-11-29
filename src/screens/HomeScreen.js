@@ -1,4 +1,5 @@
 // 29-11-2025 modificar, quedo una super clase, URGENTE
+// corregir importaciones
 import React, { useEffect, useState } from 'react';
 import { View, Text, FlatList, TouchableOpacity, StyleSheet, RefreshControl } from 'react-native';
 import { useSelector, useDispatch } from 'react-redux';

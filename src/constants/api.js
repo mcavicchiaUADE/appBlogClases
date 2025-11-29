@@ -1,4 +1,3 @@
-// src/constants/api.js
 export const API_ENDPOINTS = {
   BASE_URL: 'https://jsonplaceholder.typicode.com',
   POSTS: '/posts',

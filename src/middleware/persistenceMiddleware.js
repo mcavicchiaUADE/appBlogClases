@@ -4,7 +4,7 @@ import { savePostsToStorage } from '../utils/storage';
 export const persistenceMiddleware = (store) => (next) => (action) => {
   const result = next(action);
   
-  // guardar posts cuando se obtienen o se agregan exitosamente
+  // guardar posts cuando se obtienen o los agregamoss exitosament
   if (
     action.type === 'posts/fetchPosts/fulfilled' ||
     action.type === 'posts/addPost/fulfilled'

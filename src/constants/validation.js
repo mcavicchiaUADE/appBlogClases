@@ -1,4 +1,3 @@
-// src/constants/validation.js
 export const VALIDATION_RULES = {
   TITLE_MIN_LENGTH: 3,
   BODY_MIN_LENGTH: 10,
